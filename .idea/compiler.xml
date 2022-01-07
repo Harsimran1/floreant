@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="floreantpos" />
         <module name="floreantpos-code-r1897-trunk" />
+        <module name="floreant" />
       </profile>
     </annotationProcessing>
   </component>
